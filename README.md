@@ -14,8 +14,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YouJhin-Exception&theme=city_lights&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YouJhin-Exception&theme=city_lights)
 
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/e4/19/97/e41997a7e624239e587b27fe07f15367.gif" width="800"/>
+<div id="header" align="left">
+  <img src="https://i.pinimg.com/originals/e4/19/97/e41997a7e624239e587b27fe07f15367.gif" width="200"/>
 </div>
 
 
